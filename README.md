@@ -34,11 +34,9 @@ CI/CD and Automation Engineer at **Mimecast** (formerly Code42) with 10+ years o
 
 - **CI/CD & DevOps**: Jenkins (Paved Roads, Shared Libraries, JCasC), Docker, Concourse CI, GitHub Actions, VMware vSphere, JFrog Artifactory
 - **Languages & Scripting**: Go, Python, Java, Kotlin, Rust, TypeScript, Groovy, Bash, PowerShell
-- **Education**: Dual B.S. in Computer Science & Mathematics — University of Minnesota Duluth (UMD)
 
 ---
 
 ### Connect
 
 - **Portfolio**: [redersoft.com/aboutProfessional](https://redersoft.com/aboutProfessional/)
-- **Email**: `cryptech313@gmail.com`
